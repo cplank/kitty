@@ -1,0 +1,17 @@
+div.contenders {
+    display: block;
+    background-color: #cccccc;
+  }
+  
+  div.contenders img {
+    display: block;
+    float: left;
+  }
+  
+  .clear {
+    clear: both;
+    height: 0;
+    width: 0;
+    font-size: 1px;
+    line-height: 0;
+  }
